@@ -1,2 +1,2 @@
 # Influenza-Models
-This models requiere Excel documents, these can be found as a package named: Ex_Docs_Flu.
+These models requiere Excel documents, these can be found as a secondary branch named: Ex_Docs_Flu.
